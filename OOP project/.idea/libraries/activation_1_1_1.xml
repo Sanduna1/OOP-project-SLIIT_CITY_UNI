@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="activation-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.28.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="jar://$PROJECT_DIR$/../activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../mysql-connector-java-8.0.28.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/ShipShape project/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
